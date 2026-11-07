@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "slobot00",
     "password": "454545",
     "type": "offline"
   },
   "server": {
-    "ip": "publicserver1.aternos.me",
+    "ip": "vanillaserver321.aternos.me",
     "port": 59654,
     "version": "1.21.11",
     "try-creative": false
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 1200,
       "messages": [
         ".",
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
