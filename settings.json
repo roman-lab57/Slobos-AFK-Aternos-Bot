@@ -28,10 +28,10 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": false,
-      "repeat-delay": 1200,
+      "repeat": true,
+      "repeat-delay": 60,
       "messages": [
-        "/vanish"
+        "/vanish enabled"
       ]
     },
     "chat-log": true,
