@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vanillaserver321.aternos.me",
+    "ip": "duelsserver321.aternos.me",
     "port": 59654,
     "version": "1.21.11",
     "try-creative": false
@@ -27,13 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": false,
       "repeat-delay": 1200,
       "messages": [
-        ".",
-        ".",
-        "."
+        "/vanish"
       ]
     },
     "chat-log": true,
